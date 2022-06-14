@@ -1,0 +1,44 @@
+.main { 
+  max-width: 80%;
+  margin-left: auto;
+  margin-right: auto;
+  overflow: hidden; /* Lo que está fuera de la pantalla se queda oculto */
+  text-align: center;
+}
+
+.bloque1{
+  margin-top: 3%;
+  margin-left: auto;
+  margin-right: auto;
+  margin-bottom: 2px;
+  width: 70%;
+}
+
+.bloque2{
+  width: 45%;
+  text-align: center;
+  margin-top: 5%;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+Link{
+  width: 150px;
+  height: 70px;
+}
+
+.p{
+  min-width: 350px;
+  width: 50%;
+  background-color: rgb(187, 186, 232);
+  padding: 14px;
+  /* margin-left: 70px; */
+  /* outline: 4px rgb(184, 184, 228); */
+  outline: 2px solid rgb(92, 139, 238);
+  outline-offset: -9px;
+}
+
+.img{
+  float: right;
+  margin-right: 50px; 
+}
